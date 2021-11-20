@@ -1,0 +1,38 @@
+.about__title {
+    color: var(--font-white);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.about__text {
+    color: var(--font-gray);
+    font-size: 18px;
+    text-align: center;
+}
+
+/* Mobile */
+
+@media screen and (min-width: 0px) {
+    .about__container {
+        margin: 35px 30px;
+    }
+}
+
+/* Tablet */
+
+@media screen and (min-width: 600px) {
+    .about__container {
+        margin: 40px 50px;
+    }
+}
+
+/* Desktop */
+
+@media screen and (min-width: 1024px) {
+    .about__container {
+        margin: 100px 150px;
+    }
+}

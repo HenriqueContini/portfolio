@@ -1,0 +1,14 @@
+:root {
+    --background: #171717;
+    --font-white: #f9f9f9;
+    --font-gray: #828282;
+    --green: #00df5e;
+    --border-projects: #333333;
+    --background-projects: #212121;
+}
+
+body {
+    background-color: var(--background);
+}
+
+/*font-family: 'DM Sans', sans-serif;*/

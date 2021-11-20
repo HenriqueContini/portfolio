@@ -1,0 +1,31 @@
+.header__title {
+    color: var(--font-white);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Mobile */
+
+@media screen and (min-width: 0px) {
+    .header__container {
+        padding: 35px 30px;
+    }
+}
+
+/* Tablet and laptop*/
+
+@media screen and (min-width: 425px) {
+    .header__container {
+        padding: 40px 50px;
+    }
+}
+
+/* Desktop */
+
+@media screen and (min-width: 1440px) {
+    .header__container {
+        padding: 40px 150px;
+    }
+}
