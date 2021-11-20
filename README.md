@@ -1,9 +1,15 @@
 # Portfólio
 
+### Para visualizar o site:
+
+<a href="https://henriquecontini.github.io/portfolio/">Clique aqui</a>
+
 ### Descrição 📝
 Este é meu portfólio, que será usado como vitrine para meus projetos.
 
 ### Screenshots 🖼️
+![image](https://user-images.githubusercontent.com/81761545/142730751-aa6707c2-9e27-41b4-8b9b-5850ec90cbe3.png)
+![image](https://user-images.githubusercontent.com/81761545/142730765-7be5ee75-5fbc-470f-990c-4cebf8d678ca.png)
 
 ### Tecnologias usadas ⚙️
 <div style="display: inline_block"><br>
